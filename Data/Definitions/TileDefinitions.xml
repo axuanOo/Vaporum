@@ -1,4 +1,0 @@
-<TileDefinitions>
-  <TileDefinition symbol="X" name="Blocked" isBlocked="true"/>
-  <TileDefinition symbol="." name="Dirt" isBlocked="false"/>
-</TileDefinitions>
